@@ -3,7 +3,7 @@ SudokuSolver
 
 Tired of solving sudoku?
 
-Want to be the first solver in soduku party?
+Want to be the first solver in sodoku party?
 
 Just simplely enter the problem, and click 'Solve'. That's it!!!
 
